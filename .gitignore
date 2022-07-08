@@ -1,2 +1,4 @@
 node_modules/*
 package-lock.json
+public/index.css
+public/index.css.map
