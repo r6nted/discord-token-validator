@@ -1,0 +1,30 @@
+{
+    "name": "discord-token-validator",
+    "version": "1.0.0",
+    "description": "Validate your discord bot tokens using express and ejs.",
+    "main": "index.js",
+    "scripts": {
+        "scss": "sass --watch public/index.scss:public/index.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/r6nted/discord-token-validator.git"
+    },
+    "keywords": [
+        "discord"
+    ],
+    "author": "r6nted",
+    "license": "Unlicense",
+    "bugs": {
+        "url": "https://github.com/r6nted/discord-token-validator/issues"
+    },
+    "homepage": "https://github.com/r6nted/discord-token-validator#readme",
+    "devDependencies": {
+        "sass": "^1.53.0"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.1",
+        "ejs": "^3.1.5",
+        "express": "^4.17.1"
+    }
+}
